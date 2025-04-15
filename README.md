@@ -4,9 +4,23 @@ This template provides a quick start for building a React application with Javas
 
 ## How to get started
 
-1. Clone the repository.
-2. Install dependencies.
-3. Start building!
+1. Clone the repository
+```
+git clone https://github.com/delta6626/react-tailwind-firebase-starter-template.git
+```
+2. Rename the directory to better suit your needs
+```
+mv react-tailwind-firebase-starter-template your-new-project-name
+```
+3. Enter the directory
+```
+cd your-new-project-name
+```
+4. Update the git remote URL
+```
+git remote set-url origin https://github.com/your-username/your-new-repo-name.git
+```
+5. Start building!
 
 ## Keeping Dependencies Up-to-Date
 
