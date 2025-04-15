@@ -3,9 +3,14 @@
 This template provides a quick start for building a React application with Javascript, Tailwind CSS for styling and Firebase for backend services.
 
 ## How to get started
+
 1. Clone the repository.
 2. Install dependencies.
 3. Start building!
+
+## Keeping Dependencies Up-to-Date
+
+To ensure you always have the latest dependencies, use [npm-check-updates](https://www.npmjs.com/package/npm-check-updates).
 
 ## Contributing
 
